@@ -1,5 +1,5 @@
 # Gapminder 2007: GDP per Capita vs. Life Expectancy  
-<img width="1000" height="600" alt="Gapminder_2007_World_Development_bubble_chart" src="https://github.com/user-attachments/assets/babe541e-916b-4d4f-82c1-16b7945fc0e3" />
+<img width="1000" height="600" alt="Gapminder_2007_World_Development_bubble_chart" src="https://github.com/user-attachments/assets/b7b793cf-3ad4-4847-b7d1-dac926c2f53e" />
 
 
 A Python data visualization project analyzing global development metrics (GDP per capita, life expectancy, and population) using Gapminder data from 2007.  
